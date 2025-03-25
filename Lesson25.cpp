@@ -75,7 +75,7 @@ void saveFileteredProduct(Product* products, int count, const char* fileName) {
 //file.write();
 //file.read();
 
-
+//порор
 int main()
 {
     setlocale(LC_ALL, "ru");
